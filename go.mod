@@ -9,7 +9,7 @@ require (
 	github.com/creack/pty v1.1.11
 	github.com/digitalocean/godo v1.86.0
 	github.com/docker/cli v20.10.17+incompatible
-	github.com/docker/docker v20.10.17+incompatible
+	github.com/docker/docker v20.10.24+incompatible
 	github.com/docker/docker-credential-helpers v0.6.4 // indirect
 	github.com/dustin/go-humanize v1.0.0
 	github.com/fatih/color v1.13.0
@@ -47,7 +47,6 @@ require (
 require (
 	github.com/MakeNowJust/heredoc v1.0.0
 	github.com/apache/openwhisk-client-go v0.0.0-20211007130743-38709899040b
-	github.com/pkg/browser v0.0.0-20210911075715-681adbf594b8
 	github.com/armon/circbuf v0.0.0-20190214190532-5111143e8da2
 	github.com/charmbracelet/bubbles v0.13.1-0.20220731172002-8f6516082803
 	github.com/charmbracelet/bubbletea v0.22.0
@@ -57,6 +56,7 @@ require (
 	github.com/kballard/go-shellquote v0.0.0-20180428030007-95032a82bc51
 	github.com/muesli/reflow v0.3.0
 	github.com/muesli/termenv v0.12.0
+	github.com/pkg/browser v0.0.0-20210911075715-681adbf594b8
 	gopkg.in/yaml.v3 v3.0.1
 )
 
