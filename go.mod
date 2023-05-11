@@ -47,7 +47,6 @@ require (
 require (
 	github.com/MakeNowJust/heredoc v1.0.0
 	github.com/apache/openwhisk-client-go v0.0.0-20211007130743-38709899040b
-	github.com/pkg/browser v0.0.0-20210911075715-681adbf594b8
 	github.com/armon/circbuf v0.0.0-20190214190532-5111143e8da2
 	github.com/charmbracelet/bubbles v0.13.1-0.20220731172002-8f6516082803
 	github.com/charmbracelet/bubbletea v0.22.0
@@ -57,6 +56,7 @@ require (
 	github.com/kballard/go-shellquote v0.0.0-20180428030007-95032a82bc51
 	github.com/muesli/reflow v0.3.0
 	github.com/muesli/termenv v0.12.0
+	github.com/pkg/browser v0.0.0-20210911075715-681adbf594b8
 	gopkg.in/yaml.v3 v3.0.1
 )
 
@@ -70,7 +70,7 @@ require (
 	github.com/containerd/containerd v1.5.13 // indirect
 	github.com/cpuguy83/go-md2man/v2 v2.0.1 // indirect
 	github.com/davecgh/go-spew v1.1.2-0.20180830191138-d8f796af33cc // indirect
-	github.com/docker/distribution v2.8.1+incompatible // indirect
+	github.com/docker/distribution v2.8.2+incompatible // indirect
 	github.com/docker/go-connections v0.4.0 // indirect
 	github.com/docker/go-units v0.4.0 // indirect
 	github.com/fsnotify/fsnotify v1.5.1 // indirect
